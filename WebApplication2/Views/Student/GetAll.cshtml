@@ -1,0 +1,83 @@
+﻿@model IEnumerable<WebApplication2.Models.Domain.Student>
+@{
+    var i = 1;
+    var successMessage = TempData["successMessage"]?.ToString();
+    var errorMessage = TempData["errorMessage"]?.ToString();
+}
+<h2>Claim details</h2>
+<ul>
+    @foreach (var claim in User.Claims)
+    {
+        <li><strong>@claim.Type</strong>: @claim.Value</li>
+    }
+</ul>
+@if (!string.IsNullOrWhiteSpace(successMessage))
+{
+    @successMessage
+}
+else @if (!string.IsNullOrWhiteSpace(errorMessage))
+{
+    @errorMessage
+}
+<h1>DANH SÁCH SINH VIÊN K19</h1>
+@using (Html.BeginForm())
+{
+    <p>
+        Tìm Kiếm: @Html.TextBox("SearchString")
+        @Html.RadioButton("type", "Name") Theo Tên
+        @Html.RadioButton("type", "Mssv") Theo Mã
+        <input type="submit" value="Tìm Kiếm" />
+    </p>
+}
+<table class="table">
+    <tr class="text-center">
+        <th>STT</th>
+        <th>MSSV</th>
+        <th>Name</th>
+        <th>Birth</th>
+        <th>Giới tính</th>
+        <th>Hình ảnh</th>
+        <th>MSSV</th>
+        <th>Chi tiết</th>
+        <th>Chỉnh sửa</th>
+        <th>Xóa</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr class="text-center">
+            <td> @i</td>
+            <td> @item.Mssv</td>
+            <td> @item.Name</td>
+            <td> @item.Birth.ToString("dd/MM/yyyy")</td>
+            @if (@item.Gender == false)
+            {
+                <td>Nữ</td>
+            }
+            else
+            {
+                <td>Nam</td>
+            }
+            <td><img src="@item.ImgUrl " height="100"></td>
+            <td> @item.Mssv</td>
+            @if (User.IsInRole("Admin"))
+            {
+                <td><a class="btn btn-primary" href="/Student/GetStudentById/@item.Id">Chi tiết</a></td>
+                <td><a class="btn btn-primary" href="/Student/EditStudentById/@item.Id">Chỉnh sửa</a></td>
+                <td><a class="btn btn-danger" href="/Student/DelStudentById/@item.Id">Xóa</a></td>
+            }
+            else if (User.IsInRole("Editor"))
+            {
+                <td><a class="btn btn-primary" href="/Student/GetStudentById/@item.Id">Chi tiết</a></td>
+                <td><a class="btn btn-primary" href="/Student/EditStudentById/@item.Id">Chỉnh sửa</a></td>
+            }
+            else
+            {
+                <td><a class="btn btn-primary" href="/Student/GetStudentById/@item.Id">Chi tiết</a></td>
+            }
+        </tr>
+        i++;
+
+    }
+
+</table>
+<a class="btn btn-primary" href="~/Student/AddStudent">Add</a>

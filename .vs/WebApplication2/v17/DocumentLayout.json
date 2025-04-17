@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT_web1\\LT\\Section5-6-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|d:\\lt_web1\\lt\\section5-6-main\\webapplication2\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\userrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\userroles\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\userroles\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\rolemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\rolemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\models\\user\\userrolesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user\\userrolesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\models\\user\\manageuserrolesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user\\manageuserrolesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\userroles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\models\\user\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user\\userloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\student\\editstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\editstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\models\\user\\userregistrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\user\\userregistrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\data\\authendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\authendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\webapplication2\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Migrations\\20250416124413_AddRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:WebApplication2\\Migrations\\20250416124413_AddRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Migrations\\20250416123733_Create Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818BF9B1-0C0B-4BCB-BB80-CDA6AB10D280}|WebApplication2\\WebApplication2.csproj|solutionrelative:WebApplication2\\Migrations\\20250416123733_Create Auth Database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleManagerController.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\RoleManagerController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\RoleManagerController.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\RoleManagerController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\RoleManagerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:07:51.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRolesVM.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\UserRolesVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User\\UserRolesVM.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\UserRolesVM.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User\\UserRolesVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:16:03.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageUserRolesVM.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\ManageUserRolesVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User\\ManageUserRolesVM.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\ManageUserRolesVM.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User\\ManageUserRolesVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:25:51.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\UserRoles\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\UserRoles\\Index.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\UserRoles\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\UserRoles\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T14:20:18.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRolesController.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\UserRolesController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\UserRolesController.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\UserRolesController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\UserRolesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:16:41.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\UserRoles\\Manage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\UserRoles\\Manage.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\UserRoles\\Manage.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\UserRoles\\Manage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T14:29:30.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\RoleManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\RoleManager\\Index.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\RoleManager\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\RoleManager\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T14:15:12.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\GetAll.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\GetAll.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Student\\GetAll.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEEAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T01:31:05.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetStudentById.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\GetStudentById.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\GetStudentById.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\GetStudentById.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Student\\GetStudentById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T01:31:33.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T14:30:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T12:55:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T12:54:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T13:29:56.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserLoginVM.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\UserLoginVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User\\UserLoginVM.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\UserLoginVM.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User\\UserLoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T13:22:58.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Domain\\Student.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\Domain\\Student.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Domain\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T01:15:25.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwv2IAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T14:10:00.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRegistrationVM.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\UserRegistrationVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\User\\UserRegistrationVM.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\User\\UserRegistrationVM.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\User\\UserRegistrationVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:46:02.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T02:51:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditStudentById.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\EditStudentById.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Student\\EditStudentById.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Student\\EditStudentById.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Student\\EditStudentById.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T02:51:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\Domain\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Domain\\User.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Models\\Domain\\User.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:31:55.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:05:21.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthenDbContext.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Data\\AuthenDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\AuthenDbContext.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Data\\AuthenDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\AuthenDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:33:51.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-12T01:03:42.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:01:39.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwHgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:09:07.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-12T02:01:38.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T14:30:21.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250416124413_AddRoles.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Migrations\\20250416124413_AddRoles.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250416124413_AddRoles.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Migrations\\20250416124413_AddRoles.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250416124413_AddRoles.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:44:13.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:49:36.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250416123733_Create Auth Database.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Migrations\\20250416123733_Create Auth Database.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20250416123733_Create Auth Database.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Migrations\\20250416123733_Create Auth Database.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20250416123733_Create Auth Database.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:37:33.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Data\\SchoolDbContext.cs",
+              "ToolTip": "D:\\LT_web1\\LT\\Section5-6-main\\WebApplication2\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\Data\\SchoolDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T01:03:19.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

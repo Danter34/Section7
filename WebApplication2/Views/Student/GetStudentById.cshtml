@@ -1,0 +1,27 @@
+﻿@model WebApplication2.Models.ViewModel.VMStudent // khai báo định dạng cho dữ liệu từ View trả về
+
+<a class="btn btn-primary" asp-controller="Student" asp-action="GetAll">
+    <i class="fa-solid fa-arrow-left-long"></i> Trở về
+</a>
+
+<h1>Thông tin mô tả sinh viên</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3">
+            <img src="@Model.ImgUrl" class="img-thumbnail float-left" />
+        </div>
+        <div class="col-sm-9">
+            <p><span class="d-inline-block w100 fw-bold">Họ tên:</span>@Model.Name</p>
+            <p><span class="d-inline-block w100 fw-bold">Mã số SV:</span>@Model.Mssv</p>
+            <p><span class="d-inline-block w100 fw-bold">Ngày sinh:</span>@Model.Birth.ToString("dd/MM/yyyy")</p>
+            <p>
+                <span class="d-inline-block w100 fw-bold">Giới tính:</span>
+                @Model.Gender
+            </p>
+            <p><span class="d-inline-block w100 fw-bold">Mô tả:</span>@Model.Decription</p>
+
+            <a class="btn btn-primary" href="/Student/EditStudentById/@Model.Id">Chỉnh sửa</a>
+            <a class="btn btn-primary" href="/Student/DelStudentById/@Model.Id">Xóa</a>
+        </div>
+    </div>
+</div>

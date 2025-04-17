@@ -1,0 +1,52 @@
+﻿@model WebApplication2.Models.ViewModel.VMStudent
+@{
+    var errorMessage = TempData["errorMessage"]?.ToString();
+}
+
+@if (!string.IsNullOrWhiteSpace(errorMessage))
+{
+    @errorMessage
+}
+
+<form asp-controller="Student" asp-action="AddStudent" method="post">
+    <div class="form-group">
+        <label class="form-label">Name:</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Birth:</label>
+        <input asp-for="Birth" class="form-control" />
+        <span asp-validation-for="Birth" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Mssv:</label>
+        <input asp-for="Mssv" class="form-control" />
+        <span asp-validation-for="Mssv" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Description:</label>
+        <input asp-for="Decription" class="form-control" />
+        <span asp-validation-for="Decription" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Giới tính:</label>
+        @Html.RadioButton("Gender", "male") <label for="male">Male</label>
+        @Html.RadioButton("Gender", "female") <label for="female">Female</label>
+        <span asp-validation-for="Gender" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="form-label">Image:</label>
+        <input asp-for="ImgUrl" class="form-control" />
+        <span asp-validation-for="ImgUrl" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Add" class="btn btn-primary" />
+    </div>
+</form>
